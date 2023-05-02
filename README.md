@@ -1,2 +1,2 @@
-# MachineLearning
-W tym repozytorium chciałbym pokazać moje projekty związane z machine learningiem. Wszystkie są (i kolejne będą) napisane w Pythonie. Na początku zająłem się problemem redukcji liczby predyktorów i zbadałem jej wpływ na dokładność modelu. W drugim pliku działam na sieciach neuronowych. Wyszukuję optymalną liczbę i wielkość warstw, porównuję dokładność z modelem regresji logistycznej oraz sprawdzam różne funkcje aktywacji.
+# Statistical Machine Learning
+In this repository I would like to showcase my statistical machine learning projects. They are all written in Python. I tackled some of the important issues first, and in the last project I used them to perform advanced statistical analysis.
